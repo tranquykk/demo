@@ -1,0 +1,435 @@
+
+
+
+@media only screen and (max-width: 768px) {
+    .text-header {
+        padding: 15px 10px !important;
+    }
+
+    .char-info {
+        padding: 0px 5px 60px !important;
+    }
+
+    .novellas-content {
+        padding: 40px 0 60px !important;
+    }
+
+    .swiper-pagination-novellas {
+        padding-bottom: 50px;
+    }
+
+    .bazaar-content {
+        padding: 25px 15px 50px !important;
+    }
+}
+
+@media (max-width: 992px) {
+    .text-header {
+        font-size: 30px !important;
+        word-spacing: -2.5px;
+        letter-spacing: -0.5px;
+        padding: 15px 0 !important;
+    }
+
+    .text-menu {
+        padding: 10px 0;
+        font-size: 14px;
+    }
+
+    .navbar {
+        position: fixed;
+        width: 100%;
+        background: rgba(0, 0, 0, 0.9);
+    }
+
+    .navbar-nav {
+        height: 100vh;
+    }
+
+    .header-items:hover a{
+        border-bottom: none !important;
+    }
+
+    .action {
+        border-bottom: none !important;
+    }
+
+    .intro-text-heading {
+        padding: 150px 0 0 !important;
+        font-size: 24px;
+    }
+
+    .intro-text-sub {
+        font-size: 14px;
+        line-height: 16px;
+        padding: 20px 20px 50px;
+    }
+
+    .line-primary {
+        border-bottom: 3px solid var(--primary-color);
+    }
+    
+    
+    .line-primary-sub {
+        border-bottom: 3px solid var(--primary-color);
+    }
+
+    .characters-heading h2, .novellas-heading h2, .bazaar-heading h2, .crew-heading h2, .about-content-heading h2, .contact-heading h2 {
+        font-size: 24px;
+        padding: 60px 0 15px;
+    }
+
+    .char-opt {
+        padding: 0 25px;
+    }
+
+    .pl-70 {
+        padding-left: 20px;
+    }
+    
+    .pb-100 {
+        padding-bottom: 50px;
+    }
+
+    .series-content {
+        padding-left: 30px;
+        padding-bottom: 20px;
+    }
+
+    .series-content-heading {
+        font-size: 20px;
+    }
+
+    .series-content {
+        padding: 60px 0 30px 30px;
+    }
+
+    .flex-mb {
+        display: flex !important;
+        align-items: center !important;
+    }
+
+    .series-content-text p {
+        padding-top: 0;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: -0.72px;
+        text-align: left;
+    }
+
+    .series-content-image {
+        padding: 0 20px 40px;
+    }
+
+    .series-content-image img{
+        width: 90%;
+        padding: 20px;
+    }
+
+    .pt-100 {
+        padding-top: 50px;
+    }
+
+    .px-80 {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 50px !important;
+    }
+
+    .pt-90 {
+        margin: 0;
+        padding-top: 60px;
+    }
+
+    .m-r-10 {
+        margin-right: 0;
+    }
+
+    .char-name {
+        padding: 10px 0;
+        font-size: 16px;
+        font-weight: 500;
+        text-align: center;
+        color: var(--text-color);
+    }
+
+    .char-info {
+        padding: 0px 10px 120px;
+        font-size: 12px;
+        line-height: 16px;
+        text-align: center;
+        color: #fff;
+    }
+
+    .swiper-pagination {
+        padding-bottom: 50px;
+    }
+
+    .about-img-items {
+        padding: 0 10px 20px;
+    }
+
+
+    
+    .about-content-heading h2 span {
+        font-size: 24px;
+    }
+
+    /* .about-content-heading h2, .contact-heading h2 {
+        font-size: 24px;
+        padding-top: 40px;
+    } */
+
+    .about-filter, .about-img {
+        padding: 0 20px 40px;
+        text-align: center;
+    }
+
+    .about-img-items img {
+        width: 100%;
+    }
+
+    .crew-content {
+        padding-top: 25px;
+    }
+
+    .crew-content p, .about-content-text p, .bazaar-content p, .contact-text p {
+        margin: 0;
+        padding: 0 15px 22px;
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    .about-content-text {
+        padding: 25px 0 40px !important;
+    }
+
+    .about-content-text p, .contact-text p {
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    }
+
+    .novellas-item {
+        padding: 5px 5px;
+    }
+
+    .novellas-item span {
+        padding: 5px 5px;
+        font-size: 11px;
+    }
+
+    .novellas-content {
+        padding-bottom: 120px;
+    }
+
+
+    .contact-heading h2 span {
+        font-size: 20px;
+    }
+
+    /* .about-filter {
+        flex-direction: column;
+    } */
+
+    .chars, .concep, .filter{
+        /* padding: 0; */
+        text-align: center !important;
+        font-size: 15px;
+        line-height: 22px;
+        /* border: none;x */
+    }
+
+    .flex-mb .chars {
+        display: flex;
+        justify-content: end;
+    }
+
+    .concep{
+        width: auto;
+    }
+
+    .bazaar-content {
+        padding: 25px 15px 50px;
+    }
+
+    .contact-text {
+        padding: 25px 0px 50px;
+    }
+
+    .mr-op {
+        margin: 0 -16px 0;
+    }
+
+    .form-op input {
+        margin-bottom: 10px;
+    }
+
+    .footer {
+        padding: 20px 15px;
+    }
+
+    .footer-text {
+        text-align: center !important;
+        padding: 0 0 15px;
+        line-height: 24px;
+    }
+
+    .footer-text span{
+        display: inline-block;
+    }
+
+    .footer-icon {
+        text-align: center !important;
+        padding: 0 !important;
+    }
+
+    .footer-item {
+        margin: 5px 10px;
+    }
+}
+
+@media (max-width: 576px) {
+
+    .text-header {
+        font-size: 22px !important;
+        /* padding: 20px 0 !important; */
+    }
+
+    .about-filter {
+        padding: 0 30px 30px !important;
+    }
+
+    .chars, .concep, .filter {
+        font-size: 12px !important;
+        line-height: 16px;
+    }
+
+    .chars {
+        margin-right: 0;
+        padding-right: 7px;
+    }
+
+    .concep {
+        padding-left: 7px;
+    }
+
+    .bazaar-content p {
+        padding: 0 0 22px;
+    }
+
+    .footer-text span{
+        font-size: 11px;
+    }
+
+    .footer-item {
+        font-size: 12px;
+        width: 26px;
+        height: 26px;
+        line-height: 22px;
+    }
+
+    /* .swiper-op {
+        margin-right: 35px !important;
+    } */
+
+    .footer-op {
+        padding: 0;
+    }
+}
+
+@media (max-width: 1024px) and (min-width: 768px){
+    .crew-content p, .about-content-text p, .bazaar-content p, .contact-text p {
+        padding: 0 20px 23px;
+    }
+    
+
+    .series-content {
+        padding: 104.5px 0 101px 40px;
+    }
+
+    .bazaar-content {
+        padding: 42px 20px 101px;
+    }
+
+    .contact-text {
+        padding: 25px 20px 50px !important;
+    }
+
+    .about-filter {
+        padding: 0 0 45px 35px;
+    }
+
+    .about-img {
+        padding: 0 20px 70px;
+    }
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 769px) {
+    /* .swiper-op {
+        width: none !important;
+        margin-right: none !important;
+    } */
+
+    .header-items {
+        padding: 5px 10px;
+    }
+
+    .char-opt {
+        padding: 0 15px;
+    }
+
+    /* .text-menu {
+        font-size: 12px;
+    } */
+
+    .pl-70 {
+        padding-left: 20px;
+    }
+
+    .text-header {
+        /* padding: 25px 10px !important; */
+    }
+
+    .px-5 {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+
+    .series-content {
+        padding-bottom: 30px;
+    }
+
+    .series-content-image {
+        padding: 20px 20px 40px;
+    }
+
+    .series-content-image img {
+        width: 75%;
+    }
+
+    .novellas-item span {
+        font-size: 16px;
+    }
+
+    .contact-text {
+        padding: 25px 0px 50px;
+    }
+
+    .intro-text-sub {
+        padding: 20px 15px 50px;
+    }
+}
+
+@media only screen and (max-width: 1189px) {
+    .about-content-text {
+        padding: 42px 0 80px;
+    }
+}
+
+@media (min-width: 1450px) {
+    .header-items:hover a {
+        color: var(--text-color);
+        border-bottom: none;
+    }
+    
+    
+}
