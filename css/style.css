@@ -24,27 +24,27 @@ html {
 
 @font-face {
     font-family: MyriadPro-CondIt;
-    src: url('../fonts/MyriadPro-CondIt.otf');
+    src: url('./fonts/MyriadPro-CondIt.otf');
 }
 
 @font-face {
     font-family: MyriadPro-Regular;
-    src: url('../fonts/MYRIADPRO-REGULAR.OTF');
+    src: url('./fonts/MYRIADPRO-REGULAR.OTF');
 }
 
 @font-face {
     font-family: OpenSans-Light;
-    src: url('../fonts/open-sans.light.ttf');
+    src: url('./fonts/open-sans.light.ttf');
 }
 
 @font-face {
     font-family: OpenSans-Bold;
-    src: url('../fonts/open-sans.bold.ttf');
+    src: url('./fonts/open-sans.bold.ttf');
 }
 
 @font-face {
     font-family: OpenSans-Italic;
-    src: url('../fonts/open-sans.italic.ttf');
+    src: url('./fonts/open-sans.italic.ttf');
 }
 
 .primary-color {
@@ -115,7 +115,7 @@ html {
 
 .home {
     position: relative;
-    background: url(../images/addimagehere.png) top center / cover no-repeat;
+    background: url(./images/addimagehere.png) top center / cover no-repeat;
 }
 
 .text-header {
@@ -326,7 +326,7 @@ html {
 .characters {
     width: 100%;
     position: relative;
-    background: url(../images/bg3.png) top center / cover no-repeat;
+    background: url(./images/bg3.png) top center / cover no-repeat;
 }
 
 .characters-heading h2, .novellas-heading h2, .bazaar-heading h2 {
@@ -421,7 +421,7 @@ html {
 .novellas {
     width: 100%;
     position: relative;
-    background: url(../images/bg4.png) top center / cover no-repeat;
+    background: url(./images/bg4.png) top center / cover no-repeat;
 }
 
 .novellas-heading h2, .bazaar-heading h2 {
@@ -576,7 +576,7 @@ html {
 .bazaar {
     width: 100%;
     position: relative;
-    background: url(../images/Layer90.png) top center / cover no-repeat; 
+    background: url(./images/Layer90.png) top center / cover no-repeat; 
 }
 
 .bazaar-content {
